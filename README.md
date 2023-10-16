@@ -22,4 +22,3 @@ Skills: HTML5 / CSS3 / JavaScript / Bootstrap /React js
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abazramin&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/abazramin)  
