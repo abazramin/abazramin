@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is ِAbzar
-#### I am Frond End Dev
+#### I am Front End Dev
 ![I am Frond End Dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 Front-end devoloper | Hi! 👋 I'm abazr , and I'm passionate about web programming. I'm currently studying to become a full-stack developer 🚀,.
