@@ -11,7 +11,5 @@ Skills: HTML5 / CSS3 / JavaScript / Bootstrap /  Tailwind /React js
 - 🤔 I’m looking for help with Everything related to the web domain 
 - 💬 Ask me about HTML,CSS,JavaScript  
 - 📫 How to reach me: Linkedin  
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abazramin)](https://github.com/anuraghazra/github-readme-stats)      ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abazramin&show_icons=true)  
+  
 
