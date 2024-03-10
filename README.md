@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is ِAbzar
 #### I am Front End Dev
 
- I'm passionate about web programming. I'm currently studying to become a full-stack developer 🚀,.
+ I'm passionate about web programming. I'm currently studying to become a full-stack developer 🚀.
 
 Skills: HTML5 / CSS3 / JavaScript / Bootstrap /  Tailwind /React js 
 
