@@ -3,7 +3,7 @@
 
  I'm passionate about web programming. I'm currently studying to become a full-stack developer 🚀.
 
-Skills: HTML5 / CSS3 / JavaScript / Bootstrap /  Tailwind /React js 
+Skills: HTML5 / CSS3 / JavaScript / Bootstrap / Tailwind /React js 
 
 - 🔭 I’m currently working on University of Science and Technology 
 - 🌱 I’m currently learning React js 
