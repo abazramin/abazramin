@@ -8,7 +8,7 @@ Skills: HTML5 / CSS3 / JavaScript / Bootstrap / Tailwind /React js
 - 🔭 I’m currently working on University of Science and Technology 
 - 🌱 I’m currently learning React js 
 - 👯 I’m looking to collaborate on Creating front-end projects 
-- 🤔 I’m looking for help with Everything related to the web domain 
+- 🤔 I’m looking for help with Everything related to the web domain
 - 💬 Ask me about HTML,CSS,JavaScript  
 - 📫 How to reach me: Linkedin  
   
