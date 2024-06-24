@@ -1,4 +1,6 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<br clear="both">
+
+<h1 align="center">Hi 👋! My name is  Abazr  , Front end developer</h1>
 
 ###
 
@@ -69,12 +71,6 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/abazramin/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
