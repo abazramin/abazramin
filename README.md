@@ -1,6 +1,7 @@
 <br clear="both">
 
-<h1 align="center">Hi 👋! My name is  Abazr  , Front end developer</h1>
+<h1 align="center">Hi 👋!  A skilled developer using Visual Studio, focused on efficiency, innovation, and clean code to deliver quality solutions.
+</h1>
 
 ###
 
