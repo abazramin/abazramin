@@ -35,6 +35,22 @@
   <img src="https://github-readme-stats.vercel.app/api?username=abazramin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abazramin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+###
+
+##  <h1 align="center"> 🏆 Goals: </h1>
+🚀 Gain experience in developing full-stack applications using React and .Net Core.
+🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
+
+## <h1 align="center"> 🚀 Future Endeavors: </h1>
+🌟 Share my knowledge and experience by teaching and mentoring others in the tech community.
+🧠 Study the fundamentals of Artificial Intelligence and its various subfields.
+🤖 Build a project that demonstrates my knowledge of AI and machine learning.
+
+##  <h1 align="center"> 📈 Achievements </h1>
+🎉 I have successfully completed over 15 projects on Frontend Mentor and shared my code with others.
+🤝 I have provided feedback on projects on Frontend Mentor website.
+
 
 ###
 
@@ -69,6 +85,12 @@
 </div>
 
 ###
+
+
+## <h1 align="center"> 📫 Connect with me </h1>
+Looking to convert a Figma design into a web reality? Feel free to contact me. I'm here to make your vision come alive, and I promise to bring a friendly and charismatic touch to our collaboration. Web projects are also warmly welcomed.
+
+Let's turn your ideas into reality!
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
