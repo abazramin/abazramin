@@ -1,23 +1,35 @@
-<br clear="both">
-
-<h1 align="center">Hi 👋!  A skilled developer using Visual Studio, focused on efficiency, innovation, and clean code to deliver quality solutions.
-</h1>
-
-###
-
-<br clear="both">
-
-
 
 ###
 
 <br clear="both">
 
 <div align="center">
-  <img height="450" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFyajF3YzFhb2xsbzZ5Zjd4ZTM0OTBwdmc2d3d3czhtd2VlMGtuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
+  <img height="550" width="700" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWFyajF3YzFhb2xsbzZ5Zjd4ZTM0OTBwdmc2d3d3czhtd2VlMGtuNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.gif"  />
 </div>
 
 ###
+
+<br clear="both">
+
+👋 Hey there! I'm a software engineering student with a burning passion for web programming. 🕸️ My mission? Crafting scalable and user-friendly web apps that captivate users at first click. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.
+
+###
+
+
+🔭 I’m currently studying on becoming a Full Stack.
+
+🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using C#.
+
+🔍 Take a look at my projects on Frontend Mentor!.
+
+📫 How to reach me: abazramin.
+
+👯 I’m looking to collaborate on developing new open-source projects.
+
+🌎 Fluent in Arbic 📖, and polishing up my English skills every day 🌟
+
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abazramin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
